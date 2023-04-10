@@ -80,47 +80,71 @@ sns.heatmap(df.corr(),annot=False)
 
 Bivariate analysis
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/21.png)
+
 Dataset
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/22.png)
 
 
 
 Info
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/23.png)
+
 
 
 Null values
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/24.png)
 
 
 
 After cleaning
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/25.png)
+
 
 
 Shape
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/26.png)
 
 
 
 Skew
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/27.png)
+
 
 
 Kurtosis
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/28.png)
 
 
 
 Scatterplot for numerical and numerical
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/29.png)
+
 
 
 Boxplot for numerical and catagorical
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/30.png)
 
 
 
 Displot
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/31.png)
+
 
 
 Barplot
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/32.png)
 
 
 
@@ -128,21 +152,31 @@ Multivariate analysis
 
 Price and Source
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/33.png)
+
 
 
 Price and Dep_Time
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/34.png)
 
 
 
 Price and Airline
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/35.png)
+
 
 
 Corr()
 
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/36.png)
+
 
 
 Heatmap
+
+![](https://github.com/saran7d/workshop-Multivariate-analysis/blob/main/37.png)
 
 
 
